@@ -1,13 +1,9 @@
 /*****************************************
 ** File:       proj1.cpp
-** Project:    CMSC 202 Project 1, Spring 2021
 ** Author:     Layan Akhras
-** Date:       2/25/2021
-** Section:    50/51
-** E-mail:     lakhras1@umbc.edu
 **
 ** This file contains the main driver program
-   for Project 1. This file runs a program that
+   for a Wordle game. This file runs a program that
    prompts the user for letters to guess a word
    puzzle, and checks for case sensitivity, data
    type, repeated guesses, and correct/incorrect
